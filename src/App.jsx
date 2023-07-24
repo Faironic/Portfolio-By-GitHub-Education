@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Faiyaz",
-  title: "Passionate CS Student",
+  title: "CS Student",
   email: "faiyaz.io@yahoo.com",
   gitHub: "iFayaz",
   instagram: "faiyaz.io",
