@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "faiyaz.io",
   medium: "",
   twitter: "2006_faiyaz",
-  youTube: "",
+  youTube: "UCBrF8o9nm-daa9sYa9jq-Cw",
 };
 
 const primaryColor = "#4E567E";
